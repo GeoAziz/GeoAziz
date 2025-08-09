@@ -1,6 +1,13 @@
-## Hi there 👋
-
 <!-- ZizoVerse Command Center - GitHub Profile for GeoAziz -->
+
+<!-- 🔵 Hologram Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/q0N9v7p/zizoverse-hologram-banner.png" alt="ZizoVerse Banner" width="100%" />
+</p>
+
+---
+
+<!-- 🔵 ASCII Boot Sequence -->
 
   ______   _          ______                     
  / ____/  (_)  ____  / ____/  ___    _____  _____
@@ -35,6 +42,7 @@ ZizoVerse Command Terminal v3.1
 
 ---
 
+<!-- 🔵 Animated Boot Typing -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Initializing+ZizoVerse+Command+Center...;Booting+Intergalactic+Systems+Architect+Profile;Engaging+AI+%7C+3D+Visualization+%7C+Cybersecurity+Protocols" />
 </div>
