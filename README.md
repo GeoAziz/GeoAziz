@@ -43,7 +43,7 @@ ZizoVerse Command Terminal v3.1
 
 <!-- 🔵 Animated Boot Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Initializing+ZizoVerse+Command+Center...;Booting+Intergalactic+Systems+Architect+Profile;Engaging+AI+%7C+3D+Visualization+%7C+Cybersecurity+Protocols" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Initializing+ZizoVerse+Command+Center...;Booting+Intergala[...]
 </div>
 
 ---
@@ -70,7 +70,7 @@ I blend storytelling and technology into interactive, cinematic experiences — 
 <div align="center">
 
 <!-- Pulsing Orb Header -->
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="120" alt="Tech Pulse"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3AwNTV5dTczZTR0dmwxc3pyMHEyNTg1ZXBib2N4dTk3dWV1YWFoMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" alt="Tech Pulse" style="width:100%; max-width:420px; min-width:160px; height:auto;"/>
 
 <br><br>
 
@@ -92,7 +92,7 @@ I blend storytelling and technology into interactive, cinematic experiences — 
 <br><br>
 
 <!-- Animated Scanning Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=3500&color=00F7FF&center=true&vCenter=true&width=500&lines=Scanning+Holographic+Modules...;Verifying+Tech+Integrity...;Status:+All+Systems+Green"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=3500&color=00F7FF&center=true&vCenter=true&width=500&lines=Scanning+Holographic+Modules...;Verifying+Tech+Integr[...]
 
 <br>
 
@@ -124,7 +124,7 @@ I blend storytelling and technology into interactive, cinematic experiences — 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Mission+Control+Online;Awaiting+Next+Deployment+Orders;ZizoVerse+Status:+All+Systems+Optimal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Mission+Control+Online;Awaiting+Next+Deployment+Ord[...]
 </div>
 
 ---
