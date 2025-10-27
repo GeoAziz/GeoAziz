@@ -92,7 +92,7 @@ I blend storytelling and technology into interactive, cinematic experiences — 
 <br><br>
 
 <!-- Animated Scanning Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=3500&color=00F7FF&center=true&vCenter=true&width=500&lines=Scanning+Holographic+Modules...;Verifying+Tech+Integr[...]
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=3500&color=00F7FF&center=true&vCenter=true&width=500&lines=Scanning+Holographic+Modules...;Verifying+Tech+Integrations...;Status:+All+Online" alt="Scanning Holographic Modules" />
 
 <br>
 
@@ -124,7 +124,7 @@ I blend storytelling and technology into interactive, cinematic experiences — 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Mission+Control+Online;Awaiting+Next+Deployment+Ord[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Mission+Control+Online;Awaiting+Next+Deployment+Order..." alt="Mission Control Online" />
 </div>
 
 ---
