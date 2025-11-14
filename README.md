@@ -2,7 +2,7 @@
 
 <!-- 🔵 Hologram Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/q0N9v7p/zizoverse-hologram-banner.png" alt="ZizoVerse Banner" width="100%" />
+  <img src="./zizobanner.png" alt="ZizoVerse Banner" width="100%" />
 </p>
 
 ---
