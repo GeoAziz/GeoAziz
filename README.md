@@ -1,9 +1,7 @@
 <!-- ZizoVerse Command Center - GitHub Profile for GeoAziz -->
 
 <!-- 🔵 Hologram Banner -->
-<p align="center">
-  <img src="./zizobanner.png" alt="ZizoVerse Banner" width="100%" />
-</p>
+![ZizoVerse Banner](./zizobanner.png)
 
 ---
 
